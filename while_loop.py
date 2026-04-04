@@ -22,6 +22,7 @@ while True :
 # ***
 # **
 # *
+
 # Piramit using for and while loop
 n = 5   
 while n != 0 :

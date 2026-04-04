@@ -1,7 +1,6 @@
 print("Hello world!")
 
 # Data Types in Python
-
 # string
 a = "uvesh"
 print(a)

@@ -21,7 +21,6 @@ else :
     
     
 age = int(input("Enter your age : "))
-
 if age >= 18:
     print("You are aligible fot voter ID")
 elif age <= 3:
